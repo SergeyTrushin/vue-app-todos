@@ -58,4 +58,9 @@
 	b{
 		color: #000;
 	}
+  @media(max-width:320px) {
+    .modal {
+      width:300px;
+    }
+  }
 </style>
